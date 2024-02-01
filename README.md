@@ -55,3 +55,4 @@ Traz todas as alterações de outra branch para “mergear”com a branch atual.
 ## Contatos
 
 Email: antonio_ferraz@hotmail.com
+Telefone: 1234-5679
