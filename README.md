@@ -50,3 +50,8 @@ Vai para outra branch do projeto.
 
 ### 15. git merge
 Traz todas as alterações de outra branch para “mergear”com a branch atual.
+
+---
+## Contatos
+
+Email: antonio_ferraz@hotmail.com
